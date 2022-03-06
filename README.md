@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Lucid1ty
-- 👀 I’m interested in JAVA,Python
-- 🌱 I’m currently learning JAVA,Python
+- 👋👋👋
+
 
 
 <!---
