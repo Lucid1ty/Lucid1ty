@@ -1,4 +1,1 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucid1ty&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-
-![Metrics](https://metrics.lecoq.io/Lucid1ty?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
